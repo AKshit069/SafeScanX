@@ -26,7 +26,7 @@ python3 -m pip install.
 python3 rapidscan.py {URL-to-scan}
 
 
-#💬 Need Help?
+# 💬 Need Help?
 
 If you have any questions, issues, or feedback, feel free to reach out. I am always happy to help you make the most of SafeScanX.
 
