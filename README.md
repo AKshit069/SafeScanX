@@ -13,16 +13,16 @@ SafeScanX leverages a wide array of tools to offer robust security checks:
 🌐 Uniscan - Multi-functional vulnerability assessment tool
 
 #💻 Getting Started with SafeScanX
-# Clone the repository
+ Clone the repository
 git clone https://github.com/AKshit069/SafeScanX
 
-# Navigate to the directory
+ Navigate to the directory
 cd SafeScanX
 
-# Install the required dependencies
+ Install the required dependencies
 python3 -m pip install.
 
-# Start scanning your website
+ Start scanning your website
 python3 rapidscan.py {URL-to-scan}
 
 
