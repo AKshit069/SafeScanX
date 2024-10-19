@@ -12,7 +12,7 @@ SafeScanX leverages a wide array of tools to offer robust security checks:
 ⬇️ Wget - Free software for retrieving files using HTTP, HTTPS, FTP
 🌐 Uniscan - Multi-functional vulnerability assessment tool
 
-#💻 Getting Started with SafeScanX
+# 💻 Getting Started with SafeScanX
  Clone the repository
 git clone https://github.com/AKshit069/SafeScanX
 
